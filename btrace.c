@@ -1,8 +1,3 @@
-
-#ifndef lint
-static char RCSid[] = "$Id: $  $CSID:  $  $SCMId:  $";
-#endif
-
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/time.h>
